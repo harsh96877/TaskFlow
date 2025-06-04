@@ -1,7 +1,3 @@
-Thank you for sharing the Google Drive link to your project. I have reviewed the contents of the `Task_Flow.zip` file, which includes a Python-based task management application. Based on the project structure and files, I've drafted a comprehensive `README.md` for you.
-
----
-
 # Task Flow
 
 **Task Flow** is a Python-based task management application designed to help users efficiently organize, track, and manage their tasks. With a user-friendly interface and robust features, Task Flow simplifies the process of task management, making it suitable for both personal and professional use.
@@ -116,15 +112,8 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code adheres to the existing style guidelines and includes relevant tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 * Inspired by the need for a simple yet effective task management tool.
 * Thanks to the Python community for continuous support and resources.
-
----
-
-Feel free to customize this `README.md` further to align with your project's specifics or personal preferences. If you need assistance with any other aspect of your project, don't hesitate to ask!
